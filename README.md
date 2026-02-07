@@ -1,4 +1,4 @@
-# Locatel
+# Locate Legacy
 Locatel command for Minecraft Forge 1.12.2  
 ## 名称相关  
 名称：Locate Legacy  

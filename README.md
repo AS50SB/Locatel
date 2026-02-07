@@ -6,4 +6,4 @@ Locatel command for Minecraft Forge 1.12.2
 次名称：Locatel
 ## 内容  
 添加/locatel命令，语法接近高版本  
-/locatel <类型> <ID>  
+/locatel <类型> <群系/结构ID>  

@@ -7,3 +7,4 @@ Locatel command for Minecraft Forge 1.12.2
 ## 内容  
 添加/locatel命令，语法接近高版本  
 /locatel <类型> <群系/结构ID>  
+## MC百科账号：not_have_name
